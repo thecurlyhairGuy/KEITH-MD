@@ -35,7 +35,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "add your heroku api key here",
-      "required": true
+      "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "should match to your app name you placed above copy paste it here for the heroku vars setting",
